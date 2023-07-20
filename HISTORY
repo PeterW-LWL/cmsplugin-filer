@@ -1,6 +1,12 @@
 CHANGELOG
 =========
 
+1.2.0 (2023-07-20)
+------------------
+
+* Replace usage of ``staticfiles`` template tag with ``static``
+
+
 1.1.4 (2022-08-30)
 ------------------
 
